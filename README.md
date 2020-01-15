@@ -1,1 +1,2 @@
-# typescript-webpack-workflow
+# Setting up a TypeScript Workflow with Webpack
+
